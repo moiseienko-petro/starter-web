@@ -25,4 +25,4 @@ file system
 smth instructions
 
 ### Copyright
-Git training
+Git training/ All right reserved
