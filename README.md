@@ -20,6 +20,7 @@ can be on any web server or even local
 file system
 
 ## How to contribute
+smth instructions
 
 ### Copyright
 Git training
